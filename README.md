@@ -1,4 +1,4 @@
-## Hi there, I'm XX – Connecting Code with Engineering 👋
+## Hi there, I'm Thomas – Connecting Code with Engineering 👋
 
 - 🔗 Passionate about bridging hardware and software
 - 🖥️ Building expertise in Python and C++
